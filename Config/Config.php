@@ -44,7 +44,7 @@
 
 	//Datos Empresa
 	const DIRECCION = "Carretera Cayaco - Puerto Marqués, Del P.r.i. s/n, Acapulco de Juárez, Gro.";
-	const TELEMPRESA = "+(502)78787845";
+	const TELEMPRESA = "+(52) 271-878-7845";
 	const WHATSAPP = "+524421874969";
 	const EMAIL_EMPRESA = "tienda@edututos.com";
 	const EMAIL_PEDIDOS = "tienda@edututos.com"; 
